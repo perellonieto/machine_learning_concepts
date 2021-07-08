@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/perellonieto/machine_learning_concepts/master)
+
 # machine_learning_concepts
 Small examples of machine learning concepts and ideas
 
